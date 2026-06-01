@@ -1,2 +1,2 @@
 # Data_Structure
-DS Practice
+DS & Algo Practice
